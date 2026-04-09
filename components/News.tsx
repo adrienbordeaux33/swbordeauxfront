@@ -30,7 +30,7 @@ export default function News() {
   };
 
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-purple-900 font-sans dark:bg-purple-900">
+    <div className="flex flex-col flex-1 items-center justify-center bg-[#800020] font-sans dark:bg-[#800020]">
       <div
         className="flex flex-row items-center w-full max-w-xl justify-center"
         style={{ minHeight: 100 }}

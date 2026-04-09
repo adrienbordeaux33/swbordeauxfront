@@ -24,6 +24,16 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+@font-face {
+  font-family: "Octin Spraypaint";
+  src: url("/fonts/octin-spraypaint.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1.octin-spraypaint {
+  font-family: "Octin Spraypaint", Arial, Helvetica, sans-serif;
+}
 button:hover {
   background-color: #4c51bf;
   color: white;
