@@ -24,3 +24,15 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+button:hover {
+  background-color: #4c51bf;
+  color: white;
+  cursor: pointer;
+  border: #ffffff solid 2px;
+  border-radius: 20%;
+  color: rgb(78, 7, 78);
+  background-color: #ffffff;
+}
+button {
+  padding: 10px;
+}
