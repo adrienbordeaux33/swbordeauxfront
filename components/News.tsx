@@ -44,7 +44,7 @@ export default function News() {
         </button>
         <div
           className={`news-slide transition-transform duration-500 ease-in-out flex items-center justify-center text-center`}
-          style={{ width: "400px", minHeight: "60px" }}
+          style={{ width: "300px", minHeight: "60px" }}
           key={current}
         >
           {(() => {
