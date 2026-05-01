@@ -33,7 +33,7 @@ export default function RootLayout({
       </head>
       <body className="min-h-full flex flex-col">
         <header className="py-6 px-4 text-center">
-          <h1 className="text-6xl  octin-spraypaint">
+          <h1 className="text-3xl sm:text-5xl md:text-6xl octin-spraypaint ">
             Street Workout Bordeaux
           </h1>
         </header>

@@ -9,7 +9,7 @@ const componentsList = [Yesterday, Today, Tomorrow];
 
 export default function News() {
   const [current, setCurrent] = useState(0);
-  const [direction, setDirection] = useState(0); // -1 = gauche, 1 = droite
+  const [direction, setDirection] = useState(0);
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
   const handlePrev = () => {
@@ -36,7 +36,6 @@ export default function News() {
     }
   };
 
-  // Effet pour faire défiler automatiquement toutes les 5 secondes
   useEffect(() => {
     timerRef.current = setTimeout(() => {
       setDirection(1);
