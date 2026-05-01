@@ -27,8 +27,7 @@ export default function Yesterday() {
         de la Team SWB à remporté l'épreuve de qualification de Calisthenic
         Battle League à Bordeaux le 29 Mars 2026 et se qualifie pour les finales
         à Paris en Mai ! <br />
-        Félicitations à lui et à tous les participants pour leur performance et
-        leur engagement !
+        Félicitations à lui et à tous les participants !
       </div>
     </div>
   );

@@ -15,8 +15,14 @@ export default function Tomorrow() {
         <br />
         Week End du 09 / 10 Mai 2026 :
         <br />
-        Finales Calisthenics Battle League à Paris + Qualifications Freestyle à
-        La Rochelle
+        Finales Calisthenics Battle League à Paris
+        <br />
+        +
+        <br />
+        Qualifications Freestyle à La Rochelle
+        <br />-
+        <br />
+        Donc Training réduit ce weekend (pas de matos et effectif reduit)
       </div>
     </div>
   );
