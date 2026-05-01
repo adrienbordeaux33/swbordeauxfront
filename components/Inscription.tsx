@@ -20,8 +20,8 @@ export default function Inscription() {
           rel="noopener noreferrer"
         >
           <button className="button">
-            Cliquez ici pour vous inscrire à la compétition CUB CUP du samedi 30
-            mai 2026
+            Cliquez ici pour vous inscrire à la compétition ULTIMATE CUB CUP du
+            samedi 30 mai 2026
           </button>
         </a>
       </div>

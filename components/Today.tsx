@@ -14,7 +14,7 @@ export default function Today() {
         <h1 className="text-xl font-bold">ACTUELLEMENT :</h1>
         <br />
         Prochain Training :
-        <br /> Dimanche 12 Avril 2026 - 14h
+        <br /> Dimanche 03 Mai 2026 - 14h 17h
         <br /> Spot Queyries
       </div>
     </div>
