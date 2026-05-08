@@ -13,16 +13,21 @@ export default function Tomorrow() {
       <div className="border-2 p-6 opacity-80 rounded-xl w-full text-xs md:text-sm lg:text-base text-center text-white bg-black bg-opacity-40 font-sans">
         <h1 className="text-xl font-bold">A VENIR :</h1>
         <br />
-        Week End du 09 / 10 Mai 2026 :
+        Samedi 30 Mai 2026 :
         <br />
-        Finales Calisthenics Battle League à Paris
+        Ultimate CUB CUP à Bordeaux
         <br />
-        +
+        Inscriptions via le lien ci dessous :
         <br />
-        Qualifications Freestyle à La Rochelle
-        <br />-
-        <br />
-        Donc Training réduit ce weekend (pas de matos et effectif reduit)
+        <a
+          href="https://www.instagram.com/p/DW6s0Y0COKV/?hl=fr&img_index=1"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <button className="button">
+            Cliquez ici pour voir l'événement sur Instagram
+          </button>
+        </a>
       </div>
     </div>
   );

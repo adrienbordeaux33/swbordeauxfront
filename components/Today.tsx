@@ -12,10 +12,16 @@ export default function Today() {
     >
       <div className="border-2 p-6 opacity-80 rounded-xl w-full text-xs md:text-sm lg:text-base text-center text-white bg-black bg-opacity-40 font-sans">
         <h1 className="text-xl font-bold">ACTUELLEMENT :</h1>
+        Week End du 09 / 10 Mai 2026 :
         <br />
-        Prochain Training :
-        <br /> Dimanche 03 Mai 2026 - 14h 17h
-        <br /> Spot Queyries
+        Finales Calisthenics Battle League à Paris
+        <br />
+        +
+        <br />
+        Qualifications Freestyle à La Rochelle
+        <br />-
+        <br />
+        Donc Training réduit ce weekend (pas de matos et effectif reduit)
       </div>
     </div>
   );

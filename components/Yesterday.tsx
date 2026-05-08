@@ -18,7 +18,7 @@ export default function Yesterday() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <button className="bg-[#800020] hover:bg-[#0B1F3A] text-white font-bold py-2 px-4 rounded">
+          <button className="button">
             Voir sur Insta : <br />
             @Sofyane
           </button>
