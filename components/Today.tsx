@@ -12,13 +12,22 @@ export default function Today() {
     >
       <div className="border-2 p-6 opacity-80 rounded-xl w-full text-xs md:text-sm lg:text-base text-center text-white bg-black bg-opacity-40 font-sans">
         <h1 className="text-xl font-bold">ACTUELLEMENT :</h1>
-        Dimanche 17 mai 2026
         <br />
-        14h00 à 17h00
+        Samedi 30 Mai 2026 :
         <br />
-        Sunday Training
+        Ultimate CUB CUP à Bordeaux
         <br />
-        Spot Queyries
+        Inscriptions via le lien ci dessous :
+        <br />
+        <a
+          href="https://www.instagram.com/p/DW6s0Y0COKV/?hl=fr&img_index=1"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <button className="button">
+            Cliquez ici pour voir l'événement sur Instagram
+          </button>
+        </a>
       </div>
     </div>
   );
