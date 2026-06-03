@@ -77,21 +77,6 @@ export default function News() {
           &#8594;
         </button>
       </div>
-      <div className="border-2 p-6 opacity-80 rounded-xl w-full text-xs md:text-sm lg:text-base text-center text-white bg-black bg-opacity-40 font-sans">
-        <h1 className="text-xl font-bold">COMPETITION ULTIMATE CUB CUP</h1>
-        <div className="border-2 p-6 rounded-xl w-full text-xs md:text-sm lg:text-base text-center  bg-[#800020] font-sans dark:bg-[#800020]">
-          <a
-            href="https://www.paypal.com/paypalme/Poolska"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <button className="button">
-              Cliquez ici pour vous inscrire à la compétition ULTIMATE CUB CUP
-              du samedi 30 mai 2026
-            </button>
-          </a>
-        </div>
-      </div>
     </div>
   );
 }
