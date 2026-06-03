@@ -13,20 +13,17 @@ export default function Yesterday() {
       <div className="border-2 p-6 opacity-80 rounded-xl w-full text-xs md:text-sm lg:text-base text-center text-white bg-black bg-opacity-40 font-sans">
         <h1 className="text-xl font-bold">DERNIERES NEWS :</h1>
         <br />
+        Bientôt disponible : les résulats de la CUB CUP 2026 à Bordeaux
+        <br />
         <a
-          href="https://www.instagram.com/p/DWa5rHliO9x/?hl=fr&img_index=1"
+          href="https://www.instagram.com/p/DW6s0Y0COKV/?hl=fr&img_index=1"
           target="_blank"
           rel="noopener noreferrer"
         >
           <button className="button">
-            Voir sur Insta : <br />
-            @Sofyane
+            Cliquez ici pour voir l'événement sur Instagram
           </button>
         </a>
-        <br />
-        de la Team SWB termine en 1/4 de finale de championnats de France de
-        Battle Calisthenics <br />
-        Félicitations à lui et à tous les participants !
       </div>
     </div>
   );
