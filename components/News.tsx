@@ -1,9 +1,9 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
-import Yesterday from "./Yesterday";
-import Today from "./Today";
-import Tomorrow from "./Tomorrow";
+import Yesterday from "./timercomponents/Yesterday";
+import Today from "./timercomponents/Today";
+import Tomorrow from "./timercomponents/Tomorrow";
 
 const componentsList = [Yesterday, Today, Tomorrow];
 
