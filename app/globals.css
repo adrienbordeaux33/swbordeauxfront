@@ -34,6 +34,7 @@ body {
 h1.octin-spraypaint {
   font-family: "Octin Spraypaint", Arial, Helvetica, sans-serif;
 }
+.button:hover,
 button:hover {
   background-color: #4c51bf;
   color: white;
@@ -43,6 +44,7 @@ button:hover {
   color: rgb(78, 7, 78);
   background-color: #ffffff;
 }
+.button,
 button {
   padding: 2px 4px;
   background-color: #800020;

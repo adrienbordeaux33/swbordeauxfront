@@ -13,7 +13,18 @@ export default function Tomorrow() {
       <div className="border-2 p-6 opacity-80 rounded-xl w-full text-xs md:text-sm lg:text-base text-center text-white bg-black bg-opacity-40 font-sans">
         <h1 className="text-xl font-bold">A VENIR :</h1>
         <br />
-        Trainings habituels
+        Les athlètes séléctionnés
+        <br />
+        pour représenter la Team France
+        <br />
+        seront dévoilés à partir du 21 juin
+        <br />
+        (date limite des candidatures)
+        <br />
+        donc wait and see ..
+        <br />
+        <br />
+        <br />
       </div>
     </div>
   );

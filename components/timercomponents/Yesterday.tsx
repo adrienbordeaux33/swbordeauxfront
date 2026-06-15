@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Yesterday() {
   return (
     <div
@@ -13,7 +15,12 @@ export default function Yesterday() {
       <div className="border-2 p-6 opacity-80 rounded-xl w-full text-xs md:text-sm lg:text-base text-center text-white bg-black bg-opacity-40 font-sans">
         <h1 className="text-xl font-bold">DERNIERES NEWS :</h1>
         <br />
-        Bientôt disponible : les résulats de la CUB CUP 2026 à Bordeaux
+        <Link href="/results" className="button">
+          Cliquez ici pour voir les classements par catégories de l'Ultimate CUB
+          CUP 2026
+        </Link>
+        <br />
+        -
         <br />
         <a
           href="https://www.instagram.com/p/DW6s0Y0COKV/?hl=fr&img_index=1"
