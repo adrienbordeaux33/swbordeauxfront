@@ -23,7 +23,9 @@ export default function Tomorrow() {
         <br />
         donc wait and see ..
         <br />
+        --
         <br />
+        Les Adhésions 2026 -2027 seront disponibles à partir du 1 juillet
         <br />
       </div>
     </div>
