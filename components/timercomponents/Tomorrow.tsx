@@ -13,19 +13,13 @@ export default function Tomorrow() {
       <div className="border-2 p-6 opacity-80 rounded-xl w-full text-xs md:text-sm lg:text-base text-center text-white bg-black bg-opacity-40 font-sans">
         <h1 className="text-xl font-bold">A VENIR :</h1>
         <br />
-        Les athlètes séléctionnés
+        Weekend du 15 aout 2026 :
         <br />
-        pour représenter la Team France
+        World Calisthenics Championship à Riga en Lettonie
         <br />
-        seront dévoilés à partir du 21 juin
+        A voir pour le training de ce weekend (du 15 aout)
         <br />
-        (date limite des candidatures)
-        <br />
-        donc wait and see ..
-        <br />
-        --
-        <br />
-        Les Adhésions 2026 -2027 seront disponibles à partir du 1 juillet
+        Les Adhésions 2026 -2027 seront disponibles dès Juillet
         <br />
       </div>
     </div>
