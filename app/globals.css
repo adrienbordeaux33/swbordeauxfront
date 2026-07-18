@@ -51,4 +51,5 @@ button {
   color: white;
   font: bold;
   border-radius: 6px;
+  border: #ffffff solid 2px;
 }

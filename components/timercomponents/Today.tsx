@@ -13,7 +13,7 @@ export default function Today() {
       <div className="border-2 p-6 opacity-80 rounded-xl w-full text-xs md:text-sm lg:text-base text-center text-white bg-black bg-opacity-40 font-sans">
         <h1 className="text-xl font-bold">ACTUELLEMENT :</h1>
         <br />
-        Dimanche 12 Juillet
+        Dimanche 19 Juillet
         <br />
         Sunday Training
         <br />
