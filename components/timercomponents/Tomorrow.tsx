@@ -13,14 +13,13 @@ export default function Tomorrow() {
       <div className="border-2 p-6 opacity-80 rounded-xl w-full text-xs md:text-sm lg:text-base text-center text-white bg-black bg-opacity-40 font-sans">
         <h1 className="text-xl font-bold">A VENIR :</h1>
         <br />
-        Weekend du 15 aout 2026 :
+        Weekend du 5 - 6 Septembre 2026
         <br />
-        World Calisthenics Championship à Riga en Lettonie
+        La Team Street Workout Bordeaux se déplace à Paris
         <br />
-        A voir pour le training de ce weekend (du 15 aout)
+        pour les Championnats de France de Calisthenics 2026
         <br />
-        Les Adhésions 2026 -2027 seront disponibles dès Juillet
-        <br />
+        donc il n'y aura pas de session d'entrainement ce weekend là.
       </div>
     </div>
   );
