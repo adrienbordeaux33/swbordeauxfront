@@ -15,24 +15,18 @@ export default function Yesterday() {
       <div className="border-2 p-6 opacity-80 rounded-xl w-full text-xs md:text-sm lg:text-base text-center text-white bg-black bg-opacity-40 font-sans">
         <h1 className="text-xl font-bold">DERNIERES NEWS :</h1>
         <br />
-        Du 13 au 15 Aout avaient lieu, à Riga, Letonnie, les Calisthenics World
-        Championship 2026
+        Les 5 & 6 Septembre 2026 avaient lieux les Championnat de France de
+        Calisthenics à Montgeron en région Parisienne.
         <br />
-        Parmi les athlètes sélectionnés pour représenter la Team France,
+        Les athlètes de la team Street Workout Bordeaux ont participé à cet
+        événement.
         <br />
-        Le président de Street Workout Bordeaux, Adrien, s'est imposé dans
-        l'épreuve Power Open Veteran,
+        Encore une fois la team a brillé lors de cette compétition, remportant
+        ainsi plusieurs titres de champion de France et de nombreuses médailles.
         <br />
-        remportant ainsi la médaille d'or et le titre de Champion du Monde 2026
-        !
-        <br />
-        <a
-          href="https://www.instagram.com/p/DcIzWpFRtUI/?hl=fr"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="" target="_blank" rel="noopener noreferrer">
           <button className="button">
-            Cliquez ici pour voir le recap vidéo de l'événement sur Instagram
+            Cliquez ici pour voir le recap de l'événement sur Instagram
           </button>
         </a>
       </div>

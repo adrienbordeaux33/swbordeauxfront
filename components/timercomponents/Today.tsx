@@ -13,14 +13,11 @@ export default function Today() {
       <div className="border-2 p-6 opacity-80 rounded-xl w-full text-xs md:text-sm lg:text-base text-center text-white bg-black bg-opacity-40 font-sans">
         <h1 className="text-xl font-bold">ACTUELLEMENT :</h1>
         <br />
-        Dimanche 23 Aout & Dimanche 30 Aout
+        Dimanche 13 Aout 2026
         <br />
         Sunday Training
         <br />
         Spot Queyries
-        <br />
-        Horaires à définir selon la météo (matin si canicule, après midi si
-        moins chaud)
         <br />
         -
         <br />
